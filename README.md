@@ -22,10 +22,10 @@ First, include the package in your dependencies:
             "url": "https://github.com/m397dev/laravel-mailjet",
             "no-api": true
         }
-    ],
+],
  "require": {
         "mailjet/laravel-mailjet": "dev-master"
-    },
+},
 ```
 
 Then, you need to add some informations in your configuration files. You can find your Mailjet API key/secret [here](https://app.mailjet.com/account/api_keys).
